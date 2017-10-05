@@ -1,0 +1,8 @@
+#include iotream
+
+void main()
+{
+//this will print hello world in turbo cpp.
+cout<<"Hello world!";
+getch();
+}
